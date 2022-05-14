@@ -1,3 +1,5 @@
+//Styling for the action once the submit button is pressed
+
 function check(){
     var score=0;
     if (document.getElementById('right1').checked) 
@@ -23,9 +25,6 @@ function check(){
     document.write("Your score is:"+score);
 
 
-
-
-    
 
     if (score >=4) {
         document.write("You have exellently passed");
