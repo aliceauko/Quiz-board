@@ -1,22 +1,22 @@
 function check(){
     var score=0;
-    if (document.getElementById('correct1').checked) 
+    if (document.getElementById('right1').checked) 
     {
        score++;
     }
-    if (document.getElementById('correct2').checked) 
+    if (document.getElementById('right2').checked) 
     {
        score ++;
     }
-    if (document.getElementById('correct3').checked) 
+    if (document.getElementById('right3').checked) 
     {
         score ++;
     }
-    if (document.getElementById('correct4').checked) 
+    if (document.getElementById('right4').checked) 
     {
         score ++;
     }
-    if (document.getElementById('correct5').checked) 
+    if (document.getElementById('right5').checked) 
     {
         score ++;
     }
