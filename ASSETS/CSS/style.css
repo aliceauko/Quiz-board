@@ -5,9 +5,9 @@
 }
 
 .header{
-    background-color: #add8e6;
+    background-color: whitesmoke;
     text-align: center;
-    color: blue;
+    color: #EC4067;
     border-radius: 10px;
     padding:40px;
     margin-bottom: 20px;
@@ -15,6 +15,10 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 
+}
+
+h1{
+margin-bottom: 20px;
 }
 .container{
     border-style: solid;
@@ -27,6 +31,7 @@
     border:3 3 3 3;
     border-radius: 10px;
     margin-top: 20px;
+    margin-bottom: 20px;
     margin-right: 15%;
     margin-left: 15%;
     padding: 10px;
@@ -42,4 +47,19 @@
     margin-right: 15%;
     margin-left: 15%;
     padding: 10px;
+}
+
+
+button{
+    padding: 10px;
+    background-color:#EC4067;
+    border: 1;
+    border-radius: 10px;
+    border-color: #EC4067;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    
+}
+button:hover{
+    background-color: aliceblue;
 }
