@@ -51,6 +51,12 @@ font-size: 85;
 
 }
 
+.yes:hover{
+    box-shadow: 2px 12px 32px black;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
 
 .no{
     border-style: hidden;
