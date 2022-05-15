@@ -1,4 +1,17 @@
-//Styling for the action once the submit button is pressed
+///Interactivity for the start button
+
+const container = document.querySelector('.container');
+const begin =document.querySelector('#mainButton');
+begin.addEventListener('click', (e) => {
+    e.preventDefault();
+    begin.style.display = 'none';
+    container.style.display = 'block';
+  });
+
+
+
+
+//Interactivity for the action once the submit button is pressed
 
 function check(){
     var score=0;
