@@ -1,4 +1,4 @@
-///Interactivity for the start button
+//Interactivity for the start button
 
 const container = document.querySelector('.container');
 const begin =document.querySelector('#mainButton');
