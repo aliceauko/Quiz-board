@@ -62,6 +62,9 @@ As a user of the web page, you will be able to:
 -Click the link below to view the live website
  https://aliceauko.github.io/Quiz-board/
 
+ ###link to the figma design
+ https://www.figma.com/file/GhkMR0sUNUQKUGK7FKcbf5/Quiz-Board?node-id=0%3A1
+
 ###Technology Used
 
 *HTML - which was used to develop the structure of the pages.
