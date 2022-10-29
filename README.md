@@ -1,8 +1,8 @@
-#Quiz-board 
+Quiz-board 
 
-##By Alice Auko
+By Alice Auko
 
-##Table of Content
+Table of Content
 
 -[Description](#Description)
 -[Features](#Features)
@@ -16,14 +16,14 @@
 
 
 
-##Description
+Description
 
 <p>This project is a web page about a quiz board made for a high school coding club. It will enable the students perform a JavaScript quiz.The students will be able to see multiple questions once the page loads and they will answer the multiple choice questions on the website, and after submitting their answers, they know what they scored on the website and receive remarks on the marks.</p>
 
 
 [Go back to the top](#Quiz-board)
 
-##Features
+Features
 
 As a user of the web page, you will be able to:
 
@@ -33,7 +33,7 @@ As a user of the web page, you will be able to:
 
 [Go back to the top](#Quick-board)
 
-##Behaviour Driven Development
+Behaviour Driven Development
 | | Behaviour | Input | Output |
 |:-------------:| :----------:| -----------:| 
 |Select your answers| [Press Submit] |
@@ -42,13 +42,13 @@ As a user of the web page, you will be able to:
 
 [Go back to the top](#Quiz-board)
 
-###Requirements
+Requirements
 
 *Access to a computer or any other garget
 *Access to internet
 
 
-###Installation Process
+Installation Process
 
 
 *Clone to thir repo : git clone https://github.com/aliceauko/Quiz-board
@@ -58,14 +58,14 @@ As a user of the web page, you will be able to:
 
 [Go back to the top](#Quiz-baord)
 
-###Live Link
+Live Link
 -Click the link below to view the live website
  https://aliceauko.github.io/Quiz-board/
 
- ###link to the figma design
+ link to the figma design
  https://www.figma.com/file/GhkMR0sUNUQKUGK7FKcbf5/Quiz-Board?node-id=0%3A1
 
-###Technology Used
+Technology Used
 
 *HTML - which was used to develop the structure of the pages.
 *CSS - which was used to style the User Interface.
@@ -74,10 +74,10 @@ As a user of the web page, you will be able to:
 
 [Go back to the top](#Quiz-board)
 
-##Known Bugs
+Known Bugs
  *Unwanted space in the page
 
-##Licence
+Licence
 
 MIT License Copyright (c) [2022] [Alice Auko]
 
@@ -90,7 +90,7 @@ THE WEBPAGE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 
 [Go back to the top](#Quiz-board)
 
-##Authors Info
+Authors Info
 
 Linked - [Owiti Alice Auko](https://www.linkedin.com/in/owiti-alice-auko-580b2818a )
 
